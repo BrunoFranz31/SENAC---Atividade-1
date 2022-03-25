@@ -1,0 +1,15 @@
+ [Novo cliente]
+
+- Projeto inovador
+- Oportunidade
+- Plataforma de Streaming - Desafio
+_____________________________________
+
+Desenvolvimento de perfis de usuário, formas
+de pagamento, acessibilidade, tipos de contas,
+configurações de privacidade,
+aba de novidades
+
+
+' Streaming Vídeos
+' Duas versões - uma "poluída" e outro clean
